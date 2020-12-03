@@ -1,0 +1,7 @@
+Instrucciones para el proyecto:
+
+- Instalar node, supongo que ya lo tiene.
+- Abrir una consola dentro del folder del examen final.
+- Hacer "npm i" desde la consola, para instalar las dependencias.
+- Hacer "node app.js", para iniciar el servidor.
+- Accesar "localhost:3000" para utilizar la aplicación.
